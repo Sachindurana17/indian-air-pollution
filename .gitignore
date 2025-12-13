@@ -1,0 +1,16 @@
+# Data files
+*.csv
+*.xlsx
+*.json
+
+# Model artifacts
+*.pkl
+*.joblib
+
+# Python system files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.env
+venv/
